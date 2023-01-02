@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanpjhickey
 - 👀 I’m interested in using automation to improve efficiency in the workplace
-- 🌱 I’m currently learning JavaScript at UC Davis, and studying C# independently.
-- 💞️ I’m looking to collaborate on any JavaScript related projects that I might find interesting!
+- 🌱 I’ve just recently finished UC Davis's JavaScript web development bootcamp, and I am now studying Java and C# independently.
+- 💞️ I’m looking to collaborate on any Java or JavaScript related projects that I might find interesting!
 - 📫 How to reach me: ryanpjhickey@gmail.com
