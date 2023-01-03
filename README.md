@@ -4,8 +4,8 @@
 
 ## Skillset
 
-- 🖥️ I am familiar and comfortable with HTML, CSS, JavaScript, Java and C#. 
-- 🛠️ In addition, I am also familiar and comfortable with jQuery, Bootstrap, Bulma, Node.js, Jest.js, React.js, MySQL, MongoDB.
+- 🖥️ I am proficient with HTML, CSS, JavaScript, Java and C#. 
+- 🛠️ In addition, I am also proficient with jQuery, Bootstrap, Bulma, Node.js, Express.js, Jest.js, React.js, MySQL, MongoDB, Apollo, and GraphQL.
 
 ## Interests
 - 🦾 I’m interested in using automation to improve efficiency in the workplace.
