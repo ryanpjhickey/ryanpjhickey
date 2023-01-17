@@ -1,7 +1,7 @@
-## 👋 Hi, I’m @ryanpjhickey. 
-🤖 I'm a Full Stack Web developer interested in automation!
+## 👋 Hi, I’m @ryanpjhickey.
 ---
-- 🌲 I’ve just recently finished UC Davis's JavaScript web development bootcamp, and I am now studying Java and C# independently.
+- 🤖 I'm a Full Stack Web developer interested in automation!
+- 🌲 I’ve just recently finished UC Davis's Full Stack web development bootcamp, and I am now studying Java and C# independently.
 
 ## Skillset
 
