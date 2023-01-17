@@ -2,7 +2,7 @@
 
 **`Full Stack Developer interested in automation`**
 
-- 🌲 I’ve just recently finished UC Davis's Full Stack web development bootcamp, and I am now studying Java and C# independently.
+🌲 I’ve just recently finished UC Davis's Full Stack web development bootcamp, and I am now studying Java and C# independently. I'm currently looking for entry level software development and software engineering roles. My current goals are to gain a better understanding of OOP, specificially within Java and C#.
 
 
 ### 🧰 Languages and Tools
@@ -24,7 +24,7 @@
 
 ## Interests
 - 🦾 I’m interested in using automation to improve efficiency in the workplace.
-- 🤝 I’m looking to collaborate on any Java or JavaScript related projects that I might find interesting!
+- 🤝 I’m looking to collaborate on any Java, C#, or JavaScript related projects that I might find interesting!
 - 🀄 I am conversationally fluent in Mandarin Chinese and enjoy studying it and practicing it regularly.
 - 👾 In my free time I also enjoy playing strategy board games.
 
