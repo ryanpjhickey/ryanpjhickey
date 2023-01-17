@@ -5,7 +5,7 @@
 ## Skillset
 
 - 🖥️ Languages: I am proficient with HTML, CSS, JavaScript, MySQL, NoSQL/MongoDB, Java and C#. 
-- 🛠️ Additional Tools: In addition, I am also proficient with jQuery, Bootstrap, Bulma, Node.js, Express.js, Jest.js, React.js, Apollo, and GraphQL.
+- 🛠️ Additional Tools: I am also proficient with jQuery, Bootstrap, Bulma, Node.js, Express.js, Jest.js, React.js, Apollo, and GraphQL.
 
 ## Interests
 - 🦾 I’m interested in using automation to improve efficiency in the workplace.
