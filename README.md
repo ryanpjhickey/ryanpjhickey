@@ -1,12 +1,26 @@
-## 👋 Hi, I’m @ryanpjhickey.
----
-- 🤖 I'm a Full Stack Web developer interested in automation!
+# 👋 Hi, I’m @ryanpjhickey.
+
+**`Full Stack Developer interested in automation`**
+
 - 🌲 I’ve just recently finished UC Davis's Full Stack web development bootcamp, and I am now studying Java and C# independently.
 
-## Skillset
 
-- 🖥️ Languages: I am proficient with HTML, CSS, JavaScript, MySQL, NoSQL/MongoDB, Java and C#. 
-- 🛠️ Additional Tools: I am also proficient with jQuery, Bootstrap, Bulma, Node.js, Express.js, Jest.js, React.js, Apollo, and GraphQL.
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
+<img align="left" alt="Apollo" width="30px" style="padding-right:10px;" src="https://global.discourse-cdn.com/business5/uploads/apollographql/original/1X/25bd5104d61020fe4dc0777a5919cd009bca633e.png" />
+<br />
+
+#
 
 ## Interests
 - 🦾 I’m interested in using automation to improve efficiency in the workplace.
