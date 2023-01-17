@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @ryanpjhickey, a Full Stack Web Developer who is looking to break into the world of programming!
+## 👋 Hi, I’m @ryanpjhickey, a Full Stack Web Developer interested in using programming for automation!
 ---
 🌲 I’ve just recently finished UC Davis's JavaScript web development bootcamp, and I am now studying Java and C# independently.
 
