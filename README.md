@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @ryanpjhickey.
+# 👾 Ryan Hickey
 
 **`Full Stack Developer interested in automation`**
 
@@ -26,7 +26,7 @@
 - 🦾 I’m interested in using automation to improve efficiency in the workplace.
 - 🤝 I’m looking to collaborate on any Java, C#, or JavaScript related projects that I might find interesting!
 - 🀄 I am conversationally fluent in Mandarin Chinese and enjoy studying it and practicing it regularly.
-- 👾 In my free time I also enjoy playing strategy board games.
+- 🎲 In my free time I also enjoy playing strategy board games.
 
 ## Contact Information
 - 📫 Email: ryanpjhickey@gmail.com
