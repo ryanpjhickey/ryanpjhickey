@@ -5,7 +5,7 @@
 🌲 I’ve just recently finished UC Davis's Full Stack web development bootcamp, and I am now studying Java and C# independently. I'm currently looking for entry level software development and software engineering roles. My current goals are to gain a better understanding of OOP, specificially within Java and C#.
 
 ### 👤 Portfolio
-https://ryanpjhickey.github.io/portfolio/
+My portfolio site can be found here: https://ryanpjhickey.github.io/portfolio/
 
 ### 🛠️ Languages and Tools
 
