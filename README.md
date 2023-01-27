@@ -26,7 +26,7 @@ My portfolio site can be found here: https://ryanpjhickey.github.io/portfolio/
 #
 ## Additional GitHub Information & Stats
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanpjhickey&show_icons=true&theme=gruvbox)
+![Ryan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ryanpjhickey&show_icons=true&theme=gruvbox)
 
 ## Interests
 - 🦾 I’m interested in using automation to improve efficiency in the workplace.
