@@ -2,7 +2,7 @@
 
 **`Full Stack Developer interested in automation`**
 
-🌲 I’m a graduate of UC Davis's Full Stack web development bootcamp, and I also study Java and C# independently. I'm currently looking for entry level IT, software development, and software engineering roles. I am always looking to improve my programming skills and comprehesion of new and interesting technologies.
+🌲 I’m a graduate of UC Davis's Full Stack web development bootcamp, and I also study Java and C# independently. I am always looking to improve my programming skills and comprehesion of new and interesting technologies.
 
 ### 👤 Portfolio
 My portfolio site can be found here: https://ryanpjhickey.github.io/portfolio/
