@@ -10,7 +10,7 @@ My portfolio site can be found here: https://ryanpjhickey.github.io/portfolio/
 ### 🛠️ Languages and Tools
 
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg" />
+<img align="left" alt="PHP" width="30px" height="30px" style="padding-right:10px;" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-svg-vector.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
